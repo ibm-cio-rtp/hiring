@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="42px" height="24px" viewBox="0 0 42 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="53px" height="42px" viewBox="0 0 53 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>developer</title>
+    <title>SalesForce Developer Original</title>
     <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="SalesForce-Developer-Original" transform="translate(-2.000000, -12.000000)" fill="#5596E6" fill-rule="nonzero">
-            <g id="developer" transform="translate(0.000000, 6.000000)">
-                <g id="Group">
-                    <polygon id="&lt;" points="15.12 27.24 15.12 23.88 6.15 18.48 6.15 18.27 15.12 12.9 15.12 9.54 2.88 17.16 2.88 19.62"></polygon>
-                    <polygon id="&gt;" points="30.88 27.24 43.12 19.62 43.12 17.16 30.88 9.54 30.88 12.9 39.85 18.27 39.85 18.48 30.88 23.88"></polygon>
-                    <polygon id="/" points="20.912 29.926 28.374 6.76 25.592 6.76 18.13 29.926"></polygon>
-                </g>
+    <g id="SalesForce-Developer-Original" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="developer" transform="translate(2.000000, 6.000000)" fill="#5596E6" fill-rule="nonzero">
+            <g id="Group">
+                <polygon id="&lt;" points="15.0345236 25.3711161 15.0345236 21.3473661 4.25973636 14.880625 4.25973636 14.6291406 15.0345236 8.19832589 15.0345236 4.17457589 0.331803885 13.2998661 0.331803885 16.2458259"></polygon>
+                <polygon id="&gt;" points="33.9654764 25.3711161 48.6681961 16.2458259 48.6681961 13.2998661 33.9654764 4.17457589 33.9654764 8.19832589 44.7402636 14.6291406 44.7402636 14.880625 33.9654764 21.3473661"></polygon>
+                <polygon id="/" points="21.991889 28.587721 30.9552627 0.845401786 27.6135171 0.845401786 18.6501434 28.587721"></polygon>
             </g>
         </g>
     </g>
